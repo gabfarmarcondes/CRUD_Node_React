@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "nodemon index.js",
+  "keywords": [],
+  "author": "gabfarmarcondes",
+  "license": "ISC",
+  "description": "CRUD with React/Node"
+  }
+}
