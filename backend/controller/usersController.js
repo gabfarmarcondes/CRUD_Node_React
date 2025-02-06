@@ -1,4 +1,4 @@
-import { db } from "../database/database";
+import { db } from "../database/database.js";
 
 export const getUsers = (_, res) => {
     const q = "SELECT * FROM users";
